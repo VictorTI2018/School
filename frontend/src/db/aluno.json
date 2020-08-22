@@ -1,0 +1,14 @@
+{
+  "alunos": [
+    {
+      "nome": "Teste",
+      "ra": "b1jjb8de6",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Victor Hugo",
+      "ra": "e533db325"
+    }
+  ]
+}
